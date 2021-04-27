@@ -1,0 +1,13 @@
+.form-control{
+    width: 30%;
+    margin-bottom: 30px !important;
+    
+}
+.text{
+    font-size: 18px;
+    letter-spacing: 2px;
+    text-align: center;
+    margin: 10px 0;
+    text-transform: uppercase;
+    color: rgb(0, 20, 12);
+}
