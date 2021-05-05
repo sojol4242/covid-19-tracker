@@ -10,7 +10,7 @@
 <li>Material UI</li>
 <li>Javascript</li>
 <li>CSS </li>
-<li>HTML </li>
+ 
 
 </ul>
 
